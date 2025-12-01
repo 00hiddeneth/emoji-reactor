@@ -141,5 +141,5 @@ documentation is comprehensive, security is ensured.
 
 ---
 
-*Audit conducted by: GitHub Copilot (Claude Sonnet 4.5)*  
+*Audit conducted by: undisclosed  
 *Date: December 1, 2025*
